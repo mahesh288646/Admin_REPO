@@ -1,0 +1,5 @@
+MONGO_URL="hellomongo"
+MONGO_URL2="hellomongo2"
+MONGO_URL3="Bongo"
+MONGO_USERID="crazydb"
+MONGOPASSWORD="crazypassword"
